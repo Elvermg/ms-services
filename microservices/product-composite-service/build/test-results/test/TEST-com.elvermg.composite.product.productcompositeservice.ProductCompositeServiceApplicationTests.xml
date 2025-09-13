@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.elvermg.composite.product.productcompositeservice.ProductCompositeServiceApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-01T02:33:00" hostname="Martins-MacBook-Pro.local" time="0.394">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.elvermg.composite.product.productcompositeservice.ProductCompositeServiceApplicationTests" time="0.394"/>
+  <system-out><![CDATA[22:32:59.341 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.elvermg.composite.product.productcompositeservice.ProductCompositeServiceApplicationTests]: ProductCompositeServiceApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+22:32:59.374 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.elvermg.composite.product.productcompositeservice.ProductCompositeServiceApplication for test class com.elvermg.composite.product.productcompositeservice.ProductCompositeServiceApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.4)
+
+2024-10-31T22:32:59.490-04:00  INFO 33091 --- [product-composite-service] [    Test worker] .ProductCompositeServiceApplicationTests : Starting ProductCompositeServiceApplicationTests using Java 17.0.13 with PID 33091 (started by elvermg in /Volumes/Data/Projects/Microservices/MS-Spring-Boot/microservices/product-composite-service)
+2024-10-31T22:32:59.491-04:00  INFO 33091 --- [product-composite-service] [    Test worker] .ProductCompositeServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2024-10-31T22:32:59.876-04:00  INFO 33091 --- [product-composite-service] [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-10-31T22:33:00.006-04:00  INFO 33091 --- [product-composite-service] [    Test worker] .ProductCompositeServiceApplicationTests : Started ProductCompositeServiceApplicationTests in 0.592 seconds (process running for 0.99)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

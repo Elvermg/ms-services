@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="MS-Spring-Boot.microservices.product-composite-service" options="-parameters" />
+      <module name="MS-Spring-Boot.microservices.product-composite-service.main" options="-parameters" />
+      <module name="MS-Spring-Boot.microservices.product-composite-service.test" options="-parameters" />
+      <module name="MS-Spring-Boot.microservices.product-service" options="-parameters" />
+      <module name="MS-Spring-Boot.microservices.product-service.main" options="-parameters" />
+      <module name="MS-Spring-Boot.microservices.product-service.test" options="-parameters" />
+      <module name="MS-Spring-Boot.microservices.recommendation-service" options="-parameters" />
+      <module name="MS-Spring-Boot.microservices.recommendation-service.main" options="-parameters" />
+      <module name="MS-Spring-Boot.microservices.recommendation-service.test" options="-parameters" />
+      <module name="MS-Spring-Boot.microservices.review-service" options="-parameters" />
+      <module name="MS-Spring-Boot.microservices.review-service.main" options="-parameters" />
+      <module name="MS-Spring-Boot.microservices.review-service.test" options="-parameters" />
+    </option>
+  </component>
+</project>
